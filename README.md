@@ -61,6 +61,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estantoxd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="estantoxd's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estantoxd&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=estantoxd&show_icons=true&theme=dark" alt="estantoxd's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estantoxd&layout=compact&theme=dark" alt="Top Languages" />
 </div>
